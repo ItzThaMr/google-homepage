@@ -1,0 +1,1 @@
+The current project is to make a website with HTML and CSS that looks simular to the google homepage
